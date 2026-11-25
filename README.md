@@ -91,6 +91,7 @@ quieras usar como `qlearningAgents.py` dentro del framework y lanza `evaluacion_
 qlearning_agent.py         agente que juega para ganar (estado, recompensas, configuraciones)
 ghostbuster_agent.py       agente cazafantasmas
 evaluacion_qlearning.py    entrena y evalúa todas las configuraciones
+memoria.pdf                memoria del proyecto
 figures/                   gráfica de resultados
 ```
 
